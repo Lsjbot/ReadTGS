@@ -1,0 +1,20 @@
+C:\dotnwb3\ReadTGS\ReadTGS\bin\Debug\ReadTGS.exe.config
+C:\dotnwb3\ReadTGS\ReadTGS\bin\Debug\ReadTGS.exe
+C:\dotnwb3\ReadTGS\ReadTGS\bin\Debug\ReadTGS.pdb
+C:\dotnwb3\ReadTGS\ReadTGS\obj\Debug\ReadTGS.csprojResolveAssemblyReference.cache
+C:\dotnwb3\ReadTGS\ReadTGS\obj\Debug\ReadTGS.csproj.ResolveComReference.cache
+C:\dotnwb3\ReadTGS\ReadTGS\obj\Debug\ReadTGS.Form1.resources
+C:\dotnwb3\ReadTGS\ReadTGS\obj\Debug\ReadTGS.Properties.Resources.resources
+C:\dotnwb3\ReadTGS\ReadTGS\obj\Debug\ReadTGS.csproj.GenerateResource.Cache
+C:\dotnwb3\ReadTGS\ReadTGS\obj\Debug\ReadTGS.exe
+C:\dotnwb3\ReadTGS\ReadTGS\obj\Debug\ReadTGS.pdb
+\\dustaff\home\sja\Documents\Visual Studio 2013\Projects\ReadTGS\ReadTGS\bin\Debug\ReadTGS.exe.config
+\\dustaff\home\sja\Documents\Visual Studio 2013\Projects\ReadTGS\ReadTGS\obj\Debug\ReadTGS.csproj.ResolveComReference.cache
+\\dustaff\home\sja\Documents\Visual Studio 2013\Projects\ReadTGS\ReadTGS\obj\Debug\ReadTGS.exe
+\\dustaff\home\sja\Documents\Visual Studio 2013\Projects\ReadTGS\ReadTGS\obj\Debug\ReadTGS.pdb
+\\dustaff\home\sja\Documents\Visual Studio 2013\Projects\ReadTGS\ReadTGS\obj\Debug\ReadTGS.csprojResolveAssemblyReference.cache
+\\dustaff\home\sja\Documents\Visual Studio 2013\Projects\ReadTGS\ReadTGS\obj\Debug\ReadTGS.Form1.resources
+\\dustaff\home\sja\Documents\Visual Studio 2013\Projects\ReadTGS\ReadTGS\obj\Debug\ReadTGS.Properties.Resources.resources
+\\dustaff\home\sja\Documents\Visual Studio 2013\Projects\ReadTGS\ReadTGS\obj\Debug\ReadTGS.csproj.GenerateResource.Cache
+\\dustaff\home\sja\Documents\Visual Studio 2013\Projects\ReadTGS\ReadTGS\bin\Debug\ReadTGS.exe
+\\dustaff\home\sja\Documents\Visual Studio 2013\Projects\ReadTGS\ReadTGS\bin\Debug\ReadTGS.pdb
